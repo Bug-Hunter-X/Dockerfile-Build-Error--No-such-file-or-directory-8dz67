@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when building Docker images. The original Dockerfile fails to build because the `requirements.txt` file is not found at the expected location or the file path is incorrect. The `Dockerfile_fixed` offers a solution to address this issue.
